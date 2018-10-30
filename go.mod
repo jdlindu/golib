@@ -1,4 +1,4 @@
-module sot.gitlab.oa.com/jdlindu/golib
+module 10.238.26.214/jdlindu/golib
 
 require (
 	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f // indirect
