@@ -1,4 +1,4 @@
-module git.code.oa.com/storage-ops/golib
+module github.com/storage-ops/golib
 
 require (
 	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f // indirect
